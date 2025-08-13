@@ -6,7 +6,6 @@ class Solution {
       else if(i%5==0)result.add("Buzz");
       else if(i%3==0)result.add("Fizz");
       else result.add(String.valueOf(i));
-      
       }
       return result;
        }
