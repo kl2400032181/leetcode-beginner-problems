@@ -29,4 +29,9 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
+## Array
+|  |
+| ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
