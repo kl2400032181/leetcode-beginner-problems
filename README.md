@@ -18,3 +18,15 @@ This repository contains my solutions to beginner-level LeetCode problems.
    ```bash
    git clone https://github.com/kl2400032181/leetcode-beginner-problems.git
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
+## Simulation
+|  |
+| ------- |
+| [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
+<!---LeetCode Topics End-->
