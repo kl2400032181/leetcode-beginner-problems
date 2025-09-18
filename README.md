@@ -25,6 +25,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2619-categorize-box-according-to-criteria](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
 | ------- |
