@@ -35,4 +35,13 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
+## Two Pointers
+|  |
+| ------- |
+| [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
+## Matrix
+|  |
+| ------- |
+| [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
