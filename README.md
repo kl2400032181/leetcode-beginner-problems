@@ -39,9 +39,14 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
 | ------- |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
