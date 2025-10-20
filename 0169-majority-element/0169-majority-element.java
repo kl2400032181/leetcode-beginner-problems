@@ -5,12 +5,12 @@ class Solution {
             int n=nums[i];
             mad.put(n,mad.getOrDefault(n,0)+1);
         }
-        int p=0;
+        int p=nums.length/2;
         int g=0;
         for(int key:mad.keySet()){
             if(mad.get(key)>p){
-                p=mad.get(key);
                 g=key;
+                break;
             }
         }
         return g;
