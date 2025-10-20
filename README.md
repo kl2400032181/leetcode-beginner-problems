@@ -34,6 +34,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -49,4 +50,20 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
