@@ -50,10 +50,12 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+| [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
