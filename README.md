@@ -24,6 +24,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2619-categorize-box-according-to-criteria](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
@@ -35,6 +36,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -56,6 +58,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +71,5 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
