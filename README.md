@@ -36,6 +36,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +61,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
