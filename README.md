@@ -57,6 +57,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
@@ -77,6 +79,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
