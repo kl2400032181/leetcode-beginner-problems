@@ -42,6 +42,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
