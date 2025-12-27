@@ -3,11 +3,9 @@ class Solution {
         int maxprofit=0;
         int minprice=Integer.MAX_VALUE;
         for(int price:p){
-            if(minprice>price){
-                minprice=price;
-            }else{
+                minprice=Math.min(price,minprice);
                 maxprofit=Math.max(maxprofit,price-minprice);
-            }
+            
         }
         return maxprofit;
     }
