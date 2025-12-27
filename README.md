@@ -37,6 +37,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
@@ -87,4 +88,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
