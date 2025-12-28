@@ -58,6 +58,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
@@ -93,4 +94,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
