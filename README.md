@@ -37,6 +37,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
@@ -80,6 +82,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
