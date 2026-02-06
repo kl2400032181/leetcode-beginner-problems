@@ -40,6 +40,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
