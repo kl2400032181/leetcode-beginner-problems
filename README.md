@@ -42,6 +42,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
@@ -54,6 +55,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -108,4 +110,9 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
