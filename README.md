@@ -42,6 +42,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -72,6 +73,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
