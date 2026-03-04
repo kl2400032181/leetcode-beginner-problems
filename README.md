@@ -49,6 +49,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0896-monotonic-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
