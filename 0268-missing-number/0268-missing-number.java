@@ -1,6 +1,5 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        
         int n=nums.length;
         int h=0;
         int sum=(n*(n+1))/2;
