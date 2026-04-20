@@ -56,6 +56,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [3861-minimum-capacity-box](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3861-minimum-capacity-box) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
