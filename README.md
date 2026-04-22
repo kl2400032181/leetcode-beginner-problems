@@ -30,6 +30,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [2298-count-integers-with-even-digit-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2619-categorize-box-according-to-criteria](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [2639-separate-the-digits-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3861-minimum-capacity-box](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
