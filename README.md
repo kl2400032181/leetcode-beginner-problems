@@ -81,6 +81,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
+| [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
