@@ -24,6 +24,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
