@@ -25,6 +25,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
@@ -42,6 +43,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0136-single-number) |
