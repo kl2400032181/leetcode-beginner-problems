@@ -26,6 +26,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
@@ -50,6 +51,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
@@ -71,6 +73,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0075-sort-colors](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
