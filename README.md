@@ -57,6 +57,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
@@ -159,5 +160,6 @@ This repository contains my solutions to beginner-level LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
