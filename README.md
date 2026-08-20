@@ -164,4 +164,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | ------- |
 | [0724-find-pivot-index](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1480-running-sum-of-1d-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
