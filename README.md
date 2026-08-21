@@ -91,6 +91,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0796-rotate-string) |
 | [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
@@ -168,4 +169,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
