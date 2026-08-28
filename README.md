@@ -92,6 +92,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0796-rotate-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Divide and Conquer
@@ -128,6 +130,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2404-most-frequent-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
@@ -152,6 +155,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0136-single-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
