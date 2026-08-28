@@ -90,6 +90,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0125-valid-palindrome](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -102,6 +103,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0217-contains-duplicate](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0782-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +130,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -177,4 +180,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
