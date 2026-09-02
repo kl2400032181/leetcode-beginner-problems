@@ -27,6 +27,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0009-palindrome-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1635-number-of-good-pairs) |
@@ -156,6 +157,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -184,4 +186,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
