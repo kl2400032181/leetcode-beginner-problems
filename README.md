@@ -58,6 +58,7 @@ This repository contains my solutions to beginner-level LeetCode problems.
 | [0268-missing-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -194,4 +195,8 @@ This repository contains my solutions to beginner-level LeetCode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kl2400032181/leetcode-beginner-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
